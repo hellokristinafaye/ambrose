@@ -35,3 +35,10 @@ nav h2 {
     padding: 10px 55px;
     cursor: pointer;
 }
+
+article {
+    width: 75%;
+    background: white;
+    padding: 10px 5px;
+    margin: 10px 0;
+}
