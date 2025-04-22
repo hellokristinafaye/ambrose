@@ -18,5 +18,18 @@ nav {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav h2 {
+    cursor: pointer;
+}
 
+.search {
+    /* height: 50px; */
+}
+
+.search input {
+    padding: 10px 2px;
+    width: 12rem;
+}
+.search button {
+    background: black;
+    color: white;
 }
