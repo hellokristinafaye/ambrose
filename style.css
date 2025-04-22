@@ -9,7 +9,8 @@ header h1 {
 nav {
     background: rgb(228, 84, 190);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
 }
 nav h2 {
 
