@@ -4,6 +4,7 @@ body {
 .container {
     width: 90%;
     margin: auto;
+    margin-bottom: 50px;
 }
 header h1 {
     font-family: "Gravitas One", serif;
