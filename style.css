@@ -48,3 +48,11 @@ article {
 p {
     font-family: poppins;
 }
+main {
+    display: flex;
+}
+aside {
+    width: 22%;
+    background: rgb(228, 84, 190);    padding: 10px 20px;
+    margin: 10px 0;
+}
