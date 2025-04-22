@@ -52,6 +52,9 @@ main {
     display: flex;
     justify-content: space-between;
 }
+.article-top h2{
+    text-align: center;
+}
 aside {
     width: 22%;
     background: rgb(228, 84, 190);    padding: 10px 20px;
