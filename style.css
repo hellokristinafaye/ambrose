@@ -40,7 +40,7 @@ article {
     width: 75%;
     background: white;
     padding: 10px 20px;
-    margin: 10px 0;
+    margin: 10px 0 0 0;
 }
 .article-headings {
     font-family: "Gravitas One", serif;
@@ -56,4 +56,5 @@ aside {
     width: 22%;
     background: rgb(228, 84, 190);    padding: 10px 20px;
     margin: 10px 0 0 10px;
+    /* height: 60em; */
 }
