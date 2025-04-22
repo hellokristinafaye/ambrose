@@ -30,6 +30,8 @@ nav h2 {
     width: 12rem;
 }
 .search button {
-    background: black;
+    background: rgb(47, 46, 46);
     color: white;
+    padding: 10px 55px;
+    cursor: pointer;
 }
