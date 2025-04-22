@@ -39,9 +39,12 @@ nav h2 {
 article {
     width: 75%;
     background: white;
-    padding: 10px 5px;
+    padding: 10px 20px;
     margin: 10px 0;
 }
 .article-headings {
     font-family: "Gravitas One", serif;
+}
+p {
+    font-family: poppins;
 }
