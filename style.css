@@ -15,7 +15,7 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: poppins;
 }
 nav h2 {
     cursor: pointer;
@@ -42,6 +42,6 @@ article {
     padding: 10px 5px;
     margin: 10px 0;
 }
-article h2 h2 {
-    font-family: ;
+.article-headings {
+    font-family: "Gravitas One", serif;
 }
