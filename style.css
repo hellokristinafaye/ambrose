@@ -58,6 +58,9 @@ aside {
     margin: 10px 0 0 10px;
     /* height: 60em; */
 }
+ul li{
+   height: 80px;
+}
 
 footer {
     background: white;
