@@ -6,3 +6,11 @@ header h1 {
     color: white;
     text-align: center;
 }
+nav {
+    background: rgb(228, 84, 190);
+    display: flex;
+    justify-content: space-between;
+}
+nav h2 {
+
+}
